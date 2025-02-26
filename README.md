@@ -1,6 +1,6 @@
 # CJEMN-KDD2025
 
-Here you can find the python scripts to run our method CJEMN submitted to the KDD 2025 conference.
+Here you can find the python scripts to run our method CJEMN, submitted to the KDD 2025 conference.
 
 To run our approach, you need first to unzip two dataset folders, IMDB and DBLP, into the data folder, as they are in this repository.
 
