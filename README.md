@@ -7,4 +7,5 @@ To run our approach, you need first to unzip two datasets, IMDB and DBLP, into t
 Then you can run our approach, by the following command:
 
 python CJEMN.py imdb # for the IMBD dataset
+
 python CJEMN.py dblp # for the DBLP dataset
